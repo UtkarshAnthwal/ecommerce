@@ -1,0 +1,10 @@
+export const cartMsg = 'Product Added To Cart';
+export const ruppee = '₹';
+export const signUpSuccessfullMsg = 'Sign Up Successfull';
+export const signUpfailureMsg = 'Try Again';
+export const loginFailureMsg = 'Invalid Credentials';
+export const cartDeleteMsg = 'Item deleted from cart';
+export const wishlistMsg = 'Product added to Wishlist';
+export const wishlisDeletetMsg = 'Product deleted from Wishlist';
+export const editProfileMsg = 'Profile Edited Successfully';
+export const reviewSuccessfull = 'Review added Successfully'

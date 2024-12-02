@@ -1,0 +1,36 @@
+.cart-container {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.bottom-container {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.btn-container {
+    margin: 5px;
+}
+
+.price-footer {
+    padding-left: 500px;
+}
+
+.purchase-button {
+    padding-left: 200px;
+}
+
+.flipkart-button {
+    background-color: #2874F0; /* Flipkart's blue color */
+    color: #fff; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.flipkart-button:hover {
+background-color: #1f5ab8; /* Slightly darker shade for hover effect */
+}

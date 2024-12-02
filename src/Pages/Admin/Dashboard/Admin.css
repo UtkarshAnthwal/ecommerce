@@ -1,0 +1,14 @@
+.hover-class:hover {
+    background-color: orange;
+}
+
+.custom-rounded {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.custom-rounded:hover {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: orange;
+}

@@ -1,0 +1,19 @@
+
+.custom-input {
+    padding: 10px;
+    /* border: none; */
+    border: 1px solid white;
+    /* background-color: white; */
+    border-bottom: solid 1px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+/* .custom-input:visited {
+    padding: 10px;
+    border: none;
+    border-bottom: solid 1px;
+    text-align: left;
+    margin-bottom: 10px;
+    background-color: aqua;
+} */
